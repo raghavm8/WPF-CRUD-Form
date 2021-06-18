@@ -1,0 +1,15 @@
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe.config
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.pdb
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.g.cs
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\App.g.cs
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.cache
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.lref
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.baml
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.g.resources
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.Properties.Resources.resources
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.GenerateResource.cache
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CoreCompileInputs.cache
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.exe
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.pdb
+G:\wpf\Solutions\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.AssemblyReference.cache
